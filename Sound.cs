@@ -12,7 +12,8 @@ namespace gtktest
 			player.SoundLocation = "sound.wav";
 			player.Load();
 		}
-		public void play(){
+		public void play()
+		{
 			if (player.IsLoadCompleted)
 			{
 				player.Play();
