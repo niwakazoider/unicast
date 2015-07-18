@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="gtktest/gtktest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gtktest/TextWindow.cs">
+    <Files>
+      <File FileName="gtktest/Program.cs" Line="223" Column="6" />
+      <File FileName="gtktest/ImageWindow.cs" Line="41" Column="4" />
+      <File FileName="gtktest/TextWindow.cs" Line="120" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="gtktest\WindowController.cs" line="49" offsetX="420" offsetY="816" expression="w.Children" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
